@@ -1,6 +1,5 @@
-# Change these first
-owner: hariidfidina20-sudo # Your GitHub organization or username, where this repository lives
-repo: SERVER-MONITORING # The name of this repository
+owner: hariidfidina20-sudo
+repo: SERVER-MONITORING
 
 sites:
   - name: Proxmox Utama
@@ -19,19 +18,14 @@ sites:
       - 401
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # CNAME harus dihapus jika tidak pakai domain sendiri agar tidak bentrok
+  baseUrl: /SERVER-MONITORING
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Monitoring Server
+  introTitle: "Sistem Monitoring Server"
+  introMessage: "Halaman ini memantau status server Proxmox dan Zahir secara real-time."
   navbar:
     - title: Status
-      href: /
+      href: /SERVER-MONITORING/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/hariidfidina20-sudo/SERVER-MONITORING
