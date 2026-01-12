@@ -6,6 +6,8 @@ sites:
   - name: Monitor Proxmox
     url: $MY_PROXMOX_URL
     __dangerous__insecure: true
+    expectedStatusCodes:
+    -401
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
