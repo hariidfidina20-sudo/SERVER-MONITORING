@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Monitor Proxmox
     url: $MY_PROXMOX_URL
+    __dangerous__insecure: true
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
