@@ -70,5 +70,23 @@
     "timeMonth": 15968,
     "timeYear": 15968,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "TB40",
+    "url": "$MY_TB40_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "tb-40",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2100,
+    "timeDay": 2100,
+    "timeWeek": 2100,
+    "timeMonth": 2100,
+    "timeYear": 2100,
+    "dailyMinutesDown": {}
   }
 ]
