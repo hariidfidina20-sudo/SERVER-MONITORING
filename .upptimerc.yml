@@ -16,7 +16,7 @@ sites:
       - 200
       - 30x
       - 401
-    - name: Zahir
+    - name: Lowcoder
     url: $MY_LOWCODER_APP1_APP2
     __dangerous__insecure: true
     expectedStatusCodes:
