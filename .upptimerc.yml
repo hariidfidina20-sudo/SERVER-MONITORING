@@ -19,7 +19,10 @@ sites:
   - name: TB40
     url: $MY_TB40_URL
     expectedStatusCodes: [200]
-
+  - name: RAPOR SD
+    url: $MY_RAPOR_SD_INSAN_TAQWA
+    expectedStatusCodes: [200]
+    
 status-website:
   baseUrl: /SERVER-MONITORING
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
