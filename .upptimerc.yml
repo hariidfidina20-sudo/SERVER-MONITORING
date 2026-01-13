@@ -16,14 +16,7 @@ sites:
       - 200
       - 30x
       - 401
-    - name: Lowcoder
-    url: $MY_LOWCODER_APP1_APP2
-    __dangerous__insecure: true
-    expectedStatusCodes:
-      - 200
-      - 30x
-      - 401
-
+      
 status-website:
   # CNAME harus dihapus jika tidak pakai domain sendiri agar tidak bentrok
   baseUrl: /SERVER-MONITORING
