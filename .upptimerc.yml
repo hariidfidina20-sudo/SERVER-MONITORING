@@ -22,6 +22,9 @@ sites:
   - name: RAPOR SD
     url: $MY_RAPOR_SD_INSAN_TAQWA
     expectedStatusCodes: [200]
+    - name: GRIST DATABASE PEGAWAI
+    url: $MY_GRIST_INSAN_TAQWA
+    expectedStatusCodes: [200]
     
 status-website:
   baseUrl: /SERVER-MONITORING
