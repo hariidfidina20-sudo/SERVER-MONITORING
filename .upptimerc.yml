@@ -2,18 +2,18 @@ owner: hariidfidina20-sudo
 repo: SERVER-MONITORING
 
 sites:
-  - name: Proxmox Utama
+  - name: PROXMOX UTAMA
     url: $MY_PROXMOX_URL
     __dangerous__insecure: true
     expectedStatusCodes: [200, 30x, 401]
-  - name: Zahir
+  - name: ZAHIR
     url: $MY_ZAHIR_URL
     __dangerous__insecure: true
     expectedStatusCodes: [200, 30x, 401]
-  - name: Insan Taqwa App
+  - name: LOWCODER
     url: $MY_LOWCODER_APP1_APP2
     expectedStatusCodes: [200]
-  - name: Inventaris Insan Taqwa
+  - name: HOMEBOOK
     url: $MY_INVENTARIS_INSANTAQWA
     expectedStatusCodes: [200]
   - name: TB40
