@@ -16,16 +16,31 @@ sites:
       - 200
       - 30x
       - 401
+  - name: Insan Taqwa Login
+    url: https://app.insantaqwa.org/user/auth/login
+    expectedStatusCodes:
+      - 200
+  - name: Inventaris Insan Taqwa
+    url: https://inventaris.insantaqwa.org/
+    expectedStatusCodes:
+      - 200
 
 status-website:
-  # CNAME harus dihapus jika tidak pakai domain sendiri agar tidak bentrok
+  # Menggunakan baseUrl agar sesuai dengan link GitHub Pages
   baseUrl: /SERVER-MONITORING
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitoring Server
   introTitle: "Sistem Monitoring Server"
-  introMessage: "Halaman ini memantau status server Proxmox dan Zahir secara real-time."
+  introMessage: "Halaman ini memantau status server Proxmox, Zahir, App Insan Taqwa, dan Inventaris secara real-time."
   navbar:
     - title: Status
       href: /SERVER-MONITORING/
     - title: GitHub
       href: https://github.com/hariidfidina20-sudo/SERVER-MONITORING
+
+# Menambahkan jadwal pengecekan otomatis
+workflowSchedule:
+  graphs: "0 0 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 2 * * *"
+  uptime: "*/5 * * * *"
