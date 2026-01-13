@@ -16,6 +16,9 @@ sites:
   - name: Inventaris Insan Taqwa
     url: $MY_INVENTARIS_INSANTAQWA
     expectedStatusCodes: [200]
+  - name: TB40
+    url: $MY_TB40_URL
+    expectedStatusCodes: [200]
 
 status-website:
   baseUrl: /SERVER-MONITORING
