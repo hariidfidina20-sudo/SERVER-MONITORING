@@ -106,5 +106,23 @@
     "timeMonth": 1117,
     "timeYear": 1117,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "GRIST DATABASE PEGAWAI",
+    "url": "$MY_GRIST_INSAN_TAQWA",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "grist-database-pegawai",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 995,
+    "timeDay": 995,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995,
+    "dailyMinutesDown": {}
   }
 ]
