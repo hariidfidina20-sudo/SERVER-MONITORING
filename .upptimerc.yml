@@ -5,27 +5,32 @@ sites:
   - name: Proxmox Utama
     url: $MY_PROXMOX_URL
     __dangerous__insecure: true
-    expectedStatusCodes:
-      - 200
-      - 30x
-      - 401
+    expectedStatusCodes: [200, 30x, 401]
   - name: Zahir
     url: $MY_ZAHIR_URL
     __dangerous__insecure: true
-    expectedStatusCodes:
-      - 200
-      - 30x
-      - 401
-      
+    expectedStatusCodes: [200, 30x, 401]
+  - name: Insan Taqwa App
+    url: $MY_LOWCODER_APP1_APP2
+    expectedStatusCodes: [200]
+  - name: Inventaris Insan Taqwa
+    url: $MY_INVENTARIS_INSANTAQWA
+    expectedStatusCodes: [200]
+
 status-website:
-  # CNAME harus dihapus jika tidak pakai domain sendiri agar tidak bentrok
   baseUrl: /SERVER-MONITORING
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitoring Server
   introTitle: "Sistem Monitoring Server"
-  introMessage: "Halaman ini memantau status server Proxmox dan Zahir secara real-time."
+  introMessage: "Memantau layanan Proxmox, Zahir, dan Insan Taqwa secara otomatis."
   navbar:
     - title: Status
       href: /SERVER-MONITORING/
     - title: GitHub
       href: https://github.com/hariidfidina20-sudo/SERVER-MONITORING
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 2 * * *"
+  uptime: "*/5 * * * *"
