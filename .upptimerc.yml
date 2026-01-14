@@ -24,7 +24,7 @@ sites:
     expectedStatusCodes: [200]
   - name: GRIST DATABASE PEGAWAI
     url: $MY_GRIST_INSAN_TAQWA
-    expectedStatusCodes: [200]
+    expectedStatusCodes: [200, 301, 302, 401, 403]
     
 status-website:
   baseUrl: /SERVER-MONITORING
