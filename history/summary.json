@@ -142,5 +142,23 @@
     "timeMonth": 947,
     "timeYear": 947,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "TTD INSAN TAQWA",
+    "url": "$MY_TTD_INSAN_TAQWA_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ttd-insan-taqwa",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1557,
+    "timeDay": 1557,
+    "timeWeek": 1557,
+    "timeMonth": 1557,
+    "timeYear": 1557,
+    "dailyMinutesDown": {}
   }
 ]
