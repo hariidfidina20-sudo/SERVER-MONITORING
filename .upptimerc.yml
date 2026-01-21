@@ -28,6 +28,9 @@ sites:
   - name: PAPERLESS
     url: $MY_PAPERLESS_URL
     expectedStatusCodes: [200, 301, 302, 401, 403]
+  - name: TTD INSAN TAQWA
+    url: $MY_TTD_INSAN_TAQWA_URL
+    expectedStatusCodes: [200, 301, 302, 401, 403]
     
 status-website:
   baseUrl: /SERVER-MONITORING
