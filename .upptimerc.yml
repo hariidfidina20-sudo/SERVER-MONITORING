@@ -22,7 +22,7 @@ sites:
   - name: RAPOR SD
     url: $MY_RAPOR_SD_INSAN_TAQWA
     expectedStatusCodes: [200]
-  - name: GRIST DATABASE PEGAWAI
+  - name: GRIST DATABASE
     url: $MY_GRIST_INSAN_TAQWA
     expectedStatusCodes: [200, 301, 302, 401, 403]
   - name: PAPERLESS
@@ -37,6 +37,60 @@ sites:
   - name: STAT INSANTAQWA
     url: $MY_STAT_URL
     expectedStatusCodes: [200, 301, 302, 401, 403]
+  - name: APP3
+    url: $MY_APP3_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: NOCODB
+    url: $MY_NOCODB_URL
+    expectedStatusCodes: [200, 301, 302, 401]
+  - name: PENPOT
+    url: $MY_PENPOT_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: HOTSPOT
+    url: $MY_HOTSPOT_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: BACKUP SERVER
+    url: $MY_BACKUP_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: ADMIN
+    url: $MY_ADMIN_URL
+    expectedStatusCodes: [200, 301, 302, 401]
+  - name: N8N2
+    url: $MY_N8N2_URL
+    expectedStatusCodes: [200, 301, 302, 401]
+  - name: CATATAN ADMIN
+    url: $MY_CATATAN_ADMIN_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: OUTLINE
+    url: $MY_OUTLINE_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: APP2
+    url: $MY_APP2_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: PERPUSTAKAAN
+    url: $MY_PERPUS_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: GOTENBERG
+    url: $MY_GOTENBERG_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: STIRLING
+    url: $MY_STIRLING_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: N8N
+    url: $MY_N8N_URL
+    expectedStatusCodes: [200, 301, 302, 401]
+  - name: CARBONE
+    url: $MY_CARBONE_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: PORTAINER
+    url: $MY_PORTAINER_URL
+    expectedStatusCodes: [200, 301, 302, 401]
+  - name: WHATSAPP API
+    url: $MY_WA_URL
+    expectedStatusCodes: [200, 301, 302]
+  - name: S3 STORAGE
+    url: $MY_S3_URL
+    expectedStatusCodes: [200, 301, 302, 401]
     
 status-website:
   baseUrl: /SERVER-MONITORING
