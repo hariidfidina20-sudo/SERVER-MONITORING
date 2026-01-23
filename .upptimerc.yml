@@ -34,6 +34,9 @@ sites:
   - name: APLIKASI INSANTAQWA
     url: $MY_APLIKASI_INSANTAQWA_URL
     expectedStatusCodes: [200, 301, 302, 401, 403]
+  - name: STAT INSANTAQWA
+    url: $MY_STAT_URL
+    expectedStatusCodes: [200, 301, 302, 401, 403]
     
 status-website:
   baseUrl: /SERVER-MONITORING
