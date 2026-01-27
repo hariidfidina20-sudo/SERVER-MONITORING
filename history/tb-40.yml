@@ -1,7 +1,7 @@
 url: $MY_TB40_URL
-status: down
-code: 508
-responseTime: 1007
-lastUpdated: 2026-01-27T17:02:55.205Z
+status: up
+code: 200
+responseTime: 1786
+lastUpdated: 2026-01-27T17:57:03.994Z
 startTime: 2026-01-13T06:20:28.230Z
 generator: Upptime <https://github.com/upptime/upptime>
