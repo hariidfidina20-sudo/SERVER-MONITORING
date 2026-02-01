@@ -1,7 +1,7 @@
 url: $MY_PERPUS_URL
-status: up
-code: 200
-responseTime: 1659
-lastUpdated: 2026-01-31T06:04:33.850Z
+status: down
+code: 500
+responseTime: 1210
+lastUpdated: 2026-02-01T07:27:35.393Z
 startTime: 2026-01-23T04:27:34.361Z
 generator: Upptime <https://github.com/upptime/upptime>
