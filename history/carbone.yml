@@ -1,7 +1,7 @@
 url: $MY_CARBONE_URL
-status: down
-code: 502
-responseTime: 4124
-lastUpdated: 2026-02-03T23:55:34.227Z
+status: up
+code: 200
+responseTime: 819
+lastUpdated: 2026-02-04T07:35:22.038Z
 startTime: 2026-01-23T04:27:40.856Z
 generator: Upptime <https://github.com/upptime/upptime>
