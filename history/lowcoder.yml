@@ -1,7 +1,7 @@
 url: $MY_LOWCODER_APP1_APP2
-status: down
-code: 502
-responseTime: 4244
-lastUpdated: 2026-02-03T23:54:28.411Z
+status: up
+code: 200
+responseTime: 983
+lastUpdated: 2026-02-04T07:34:52.542Z
 startTime: 2026-01-13T10:37:19.077Z
 generator: Upptime <https://github.com/upptime/upptime>
