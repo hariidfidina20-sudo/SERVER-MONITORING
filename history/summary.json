@@ -76,7 +76,7 @@
     "url": "$MY_TB40_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tb-40",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -390,7 +390,7 @@
     "uptimeYear": "100.00%",
     "time": 1506,
     "timeDay": 1389,
-    "timeWeek": 1483,
+    "timeWeek": 1510,
     "timeMonth": 1506,
     "timeYear": 1506,
     "dailyMinutesDown": {}
