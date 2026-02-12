@@ -1,7 +1,7 @@
 url: $MY_N8N2_URL
-status: up
-code: 200
-responseTime: 808
-lastUpdated: 2026-02-11T23:28:07.876Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-02-12T17:24:19.128Z
 startTime: 2026-01-23T04:27:28.806Z
 generator: Upptime <https://github.com/upptime/upptime>
