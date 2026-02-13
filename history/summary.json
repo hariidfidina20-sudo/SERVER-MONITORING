@@ -49,7 +49,7 @@
     "time": 1331,
     "timeDay": 1385,
     "timeWeek": 1223,
-    "timeMonth": 1331,
+    "timeMonth": 1344,
     "timeYear": 1331,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1326,
     "timeDay": 3055,
     "timeWeek": 1956,
-    "timeMonth": 1326,
+    "timeMonth": 1328,
     "timeYear": 1326,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "$MY_TB40_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tb-40",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 1764,
     "timeDay": 1312,
     "timeWeek": 1910,
-    "timeMonth": 1764,
+    "timeMonth": 1765,
     "timeYear": 1764,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 1465,
     "timeDay": 1751,
     "timeWeek": 1457,
-    "timeMonth": 1465,
+    "timeMonth": 1475,
     "timeYear": 1465,
     "dailyMinutesDown": {}
   },
