@@ -1,7 +1,7 @@
 url: $MY_PENPOT_URL
-status: down
-code: 502
-responseTime: 825
-lastUpdated: 2026-02-16T22:45:18.738Z
+status: up
+code: 200
+responseTime: 1758
+lastUpdated: 2026-02-16T23:25:56.231Z
 startTime: 2026-01-23T04:27:19.814Z
 generator: Upptime <https://github.com/upptime/upptime>
