@@ -13,7 +13,7 @@
     "time": 784,
     "timeDay": 755,
     "timeWeek": 673,
-    "timeMonth": 741,
+    "timeMonth": 742,
     "timeYear": 784,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 466,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 484,
+    "timeMonth": 486,
     "timeYear": 466,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1287,
     "timeDay": 1182,
     "timeWeek": 1107,
-    "timeMonth": 1329,
+    "timeMonth": 1336,
     "timeYear": 1287,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1280,
     "timeDay": 1311,
     "timeWeek": 1089,
-    "timeMonth": 1305,
+    "timeMonth": 1306,
     "timeYear": 1280,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1794,
     "timeDay": 1507,
     "timeWeek": 2117,
-    "timeMonth": 1819,
+    "timeMonth": 1821,
     "timeYear": 1794,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "url": "$MY_RAPOR_SD_INSAN_TAQWA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rapor-sd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -103,7 +103,7 @@
     "time": 1408,
     "timeDay": 1301,
     "timeWeek": 1323,
-    "timeMonth": 1406,
+    "timeMonth": 1398,
     "timeYear": 1408,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1200,
     "timeDay": 1327,
     "timeWeek": 1213,
-    "timeMonth": 1207,
+    "timeMonth": 1195,
     "timeYear": 1200,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1434,
     "timeDay": 1529,
     "timeWeek": 1259,
-    "timeMonth": 1430,
+    "timeMonth": 1439,
     "timeYear": 1434,
     "dailyMinutesDown": {}
   },
