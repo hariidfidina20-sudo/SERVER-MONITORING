@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1298,
     "timeDay": 1067,
-    "timeWeek": 1593,
+    "timeWeek": 1631,
     "timeMonth": 1246,
     "timeYear": 1298,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "$MY_TB40_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tb-40",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1764,
     "timeDay": 1452,
-    "timeWeek": 1605,
+    "timeWeek": 1510,
     "timeMonth": 1807,
     "timeYear": 1764,
     "dailyMinutesDown": {}
@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1319,
-    "timeDay": 1251,
+    "timeDay": 1317,
     "timeWeek": 1172,
     "timeMonth": 1263,
     "timeYear": 1319,
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 1421,
     "timeDay": 1312,
-    "timeWeek": 1671,
+    "timeWeek": 1736,
     "timeMonth": 1323,
     "timeYear": 1421,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 1206,
     "timeDay": 1203,
-    "timeWeek": 1070,
+    "timeWeek": 1064,
     "timeMonth": 1119,
     "timeYear": 1206,
     "dailyMinutesDown": {}
@@ -462,7 +462,7 @@
     "uptimeYear": "100.00%",
     "time": 1020,
     "timeDay": 974,
-    "timeWeek": 861,
+    "timeWeek": 853,
     "timeMonth": 891,
     "timeYear": 1020,
     "dailyMinutesDown": {}
@@ -480,7 +480,7 @@
     "uptimeYear": "100.00%",
     "time": 1234,
     "timeDay": 1201,
-    "timeWeek": 1072,
+    "timeWeek": 1062,
     "timeMonth": 1120,
     "timeYear": 1234,
     "dailyMinutesDown": {}
@@ -498,7 +498,7 @@
     "uptimeYear": "100.00%",
     "time": 625,
     "timeDay": 273,
-    "timeWeek": 272,
+    "timeWeek": 260,
     "timeMonth": 320,
     "timeYear": 625,
     "dailyMinutesDown": {}
