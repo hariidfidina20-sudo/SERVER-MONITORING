@@ -1,7 +1,7 @@
 url: $MY_TTD_INSAN_TAQWA_URL
-status: up
-code: 200
-responseTime: 1035
-lastUpdated: 2026-03-07T23:18:31.240Z
+status: down
+code: 502
+responseTime: 3879
+lastUpdated: 2026-03-08T02:52:58.703Z
 startTime: 2026-01-21T06:28:23.369Z
 generator: Upptime <https://github.com/upptime/upptime>
