@@ -1,7 +1,7 @@
 url: $MY_WA_URL
-status: up
-code: 200
-responseTime: 235
-lastUpdated: 2026-03-07T23:18:54.912Z
+status: down
+code: 502
+responseTime: 3220
+lastUpdated: 2026-03-08T02:54:01.327Z
 startTime: 2026-01-23T04:27:43.544Z
 generator: Upptime <https://github.com/upptime/upptime>
