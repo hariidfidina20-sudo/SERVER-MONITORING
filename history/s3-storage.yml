@@ -1,7 +1,7 @@
 url: $MY_S3_URL
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-25T23:43:25.348Z
+code: 403
+responseTime: 1565
+lastUpdated: 2026-03-26T23:29:32.176Z
 startTime: 2026-01-23T04:27:46.198Z
 generator: Upptime <https://github.com/upptime/upptime>
