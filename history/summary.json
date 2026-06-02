@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tb-40",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.93%",
+    "uptimeDay": "90.01%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.93%",
     "time": 1653,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2026-06-02": 13
+      "2026-06-02": 144
     }
   },
   {
@@ -96,18 +96,20 @@
     "url": "$MY_RAPOR_SD_INSAN_TAQWA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rapor-sd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1533,
-    "timeDay": 6147,
-    "timeWeek": 6147,
-    "timeMonth": 6147,
-    "timeYear": 1533,
-    "dailyMinutesDown": {}
+    "time": 1530,
+    "timeDay": 3557,
+    "timeWeek": 3557,
+    "timeMonth": 3557,
+    "timeYear": 1530,
+    "dailyMinutesDown": {
+      "2026-06-02": 3
+    }
   },
   {
     "name": "GRIST DATABASE",
@@ -169,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aplikasi-insantaqwa",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "90.04%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.92%",
     "time": 1779,
     "timeDay": 4344,
     "timeWeek": 4344,
     "timeMonth": 4344,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2026-06-02": 12
+      "2026-06-02": 143
     }
   },
   {
@@ -243,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "penpot",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.92%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.92%",
     "time": 2172,
     "timeDay": 903,
     "timeWeek": 903,
     "timeMonth": 903,
     "timeYear": 2172,
     "dailyMinutesDown": {
-      "2026-06-02": 12
+      "2026-06-02": 143
     }
   },
   {
