@@ -1,7 +1,7 @@
 url: $MY_RAPOR_SD_INSAN_TAQWA
-status: up
-code: 200
-responseTime: 6033
-lastUpdated: 2026-07-10T00:00:13.687Z
+status: down
+code: 415
+responseTime: 592
+lastUpdated: 2026-07-10T13:20:15.819Z
 startTime: 2026-01-13T08:21:12.813Z
 generator: Upptime <https://github.com/upptime/upptime>
